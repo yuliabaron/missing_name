@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "name": "test-vuln-flow",
+  "dependencies": {
+    "open": "6.3.0"
+  }
+}
